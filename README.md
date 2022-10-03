@@ -1,4 +1,4 @@
-# hw-1-refactor
+# accessibility-refactor
 
 ## Description
 
